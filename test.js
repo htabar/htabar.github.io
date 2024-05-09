@@ -3,8 +3,8 @@ addEventListener('fetch', event => {
 })
 
 async function handleRequest(request) {
-    const SERVER_1_IP = 'x.x.x.x'; // Replace with Server 1 IP address
-    const SERVER_2_IP = 'y.y.y.y'; // Replace with Server 2 IP address
+    const SERVER_1_IP = '136.243.236.205'; // Replace with Server 1 IP address
+    const SERVER_2_IP = '136.243.236.206'; // Replace with Server 2 IP address
 
     let response;
     try {
